@@ -1,0 +1,9 @@
+Spending_Indicator,Outcome_Indicator,Matched_Observations,Countries,Pearson_r,Pearson_p,Spearman_rho,Spearman_p
+Expenditure on education as a percentage of total government expenditure  (percent),Net enrolment rate in primary education (percent),146,16,0.42498301998111304,8.960820085723979e-08,0.29824228215825443,0.00025591308649252395
+Government expenditure on education as a percentage of GDP (percent),Net enrolment rate in primary education (percent),160,17,0.3238208197802491,2.953258107241637e-05,0.34536709839159857,7.722225675266938e-06
+Government expenditure on education as a percentage of GDP (percent),Youth literacy rates,80,16,0.20672447707256672,0.06579359057751584,0.07982069557215521,0.4815412192910006
+Expenditure on education as a percentage of total government expenditure  (percent),Net enrolment rate in secondary education (percent),107,13,0.16291104889561348,0.09362226441209512,-0.014321825937890966,0.8835949203871754
+Expenditure on education as a percentage of total government expenditure  (percent),Youth literacy rates,96,16,0.1317198422595542,0.20080498282404768,0.013865645421740036,0.8933378758564753
+Government expenditure on education as a percentage of GDP (percent),Adult literacy rates,81,17,0.10356093089639577,0.35755253584126706,-0.053281515157636516,0.6366297886061756
+Expenditure on education as a percentage of total government expenditure  (percent),Adult literacy rates,94,17,-0.02571136935529137,0.8056928656250059,-0.16314201602917383,0.11615879985147128
+Government expenditure on education as a percentage of GDP (percent),Net enrolment rate in secondary education (percent),90,12,-0.058300730597255754,0.5851879128628152,-0.08666777113911266,0.41665425441436804

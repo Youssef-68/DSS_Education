@@ -1,0 +1,21 @@
+{
+    "best_model": "Random Forest",
+    "target": "Value",
+    "categorical_features": [
+        "Indicator",
+        "Country",
+        "Nationality",
+        "Sex",
+        "Educational_level",
+        "Sector"
+    ],
+    "numerical_features": [
+        "Years_Since_2000",
+        "Year_Squared"
+    ],
+    "training_year_min": 2000,
+    "training_year_max": 2018,
+    "testing_year_min": 2019,
+    "testing_year_max": 2023,
+    "note": "Preliminary temporal evaluation; validate before future forecasting."
+}

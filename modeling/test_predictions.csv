@@ -1,0 +1,698 @@
+Year,Country,Indicator,Value,Predicted_Value,Absolute_Error
+2019,Qatar,Net enrolment rate in secondary education (percent),90.8,90.92583865823552,0.12583865823552287
+2019,Qatar,Net enrolment rate in secondary education (percent),90.0,91.00927040426728,1.0092704042672835
+2019,Qatar,Net enrolment rate in secondary education (percent),88.3,91.37567765036275,3.075677650362749
+2019,Qatar,Net enrolment rate in secondary education (percent),89.9,91.0089327238921,1.1089327238920959
+2019,Qatar,Net enrolment rate in secondary education (percent),89.1,91.15548470801909,2.055484708019094
+2019,Qatar,Net enrolment rate in secondary education (percent),90.9,90.49296367128619,0.407036328713815
+2019,Qatar,Net enrolment rate in secondary education (percent),92.4,90.72440597425286,1.675594025747145
+2019,Iraq,Net enrolment rate in primary education (percent),91.0,94.34606032760941,3.3460603276094076
+2019,Iraq,Net enrolment rate in primary education (percent),89.0,91.82274590281958,2.8227459028195767
+2019,Iraq,Net enrolment rate in primary education (percent),90.0,93.07910465913234,3.0791046591323408
+2019,Kuwait,Pupil-teacher ratio (percent),19.9,23.797278174603164,3.8972781746031657
+2019,Kuwait,Pupil-teacher ratio (percent),5.0,6.005755495388534,1.0057554953885344
+2019,Kuwait,Pupil-teacher ratio (percent),5.9,7.696368459754746,1.7963684597547456
+2019,Kuwait,Pupil-teacher ratio (percent),5.3,6.593275172149765,1.293275172149765
+2019,Kuwait,Pupil-teacher ratio (percent),11.9,11.88127078760437,0.018729212395630412
+2019,Kuwait,Pupil-teacher ratio (percent),16.6,16.98159411834041,0.38159411834040924
+2019,Kuwait,Pupil-teacher ratio (percent),19.9,18.23626674568613,1.6637332543138683
+2019,State of Palestine,Pupil-teacher ratio (percent),23.3,23.30591690011679,0.005916900116790913
+2019,State of Palestine,Pupil-teacher ratio (percent),21.1,27.467833333333324,6.367833333333323
+2019,State of Palestine,Pupil-teacher ratio (percent),16.3,15.474649035866793,0.8253509641332073
+2019,Kuwait,Adult literacy rates,96.2,94.98547380612375,1.214526193876253
+2019,Kuwait,Adult literacy rates,99.6,95.91094819211574,3.6890518078842547
+2019,Kuwait,Adult literacy rates,95.8,94.04040459037489,1.7595954096251063
+2019,Kuwait,Adult literacy rates,97.6,95.52356290144812,2.076437098551878
+2019,Oman,Youth literacy rates,99.4,98.1572533426904,1.2427466573096098
+2019,Oman,Youth literacy rates,99.6,99.17157441645185,0.4284255835481474
+2019,Oman,Youth literacy rates,99.6,99.16588266837283,0.4341173316271636
+2019,Oman,Youth literacy rates,99.6,99.17157441645185,0.4284255835481474
+2019,State of Palestine,Pupil-teacher ratio (percent),27.3,31.45085357142859,4.150853571428588
+2019,State of Palestine,Pupil-teacher ratio (percent),23.3,23.241734750588126,0.05826524941187472
+2019,State of Palestine,Pupil-teacher ratio (percent),23.3,22.264064698182207,1.0359353018177941
+2019,Somalia,Net enrolment rate in primary education (percent),17.6,16.83181845238095,0.7681815476190508
+2019,Somalia,Net enrolment rate in primary education (percent),14.9,15.791160119047628,0.8911601190476279
+2019,Somalia,Net enrolment rate in primary education (percent),16.3,16.619071428571434,0.31907142857143356
+2019,Algeria,Government expenditure on education as a percentage of GDP (percent),5.6,5.674340146833011,0.07434014683301093
+2019,State of Palestine,Pupil-teacher ratio (percent),16.3,15.18139452528818,1.1186054747118206
+2019,State of Palestine,Pupil-teacher ratio (percent),16.3,15.516889124593936,0.7831108754060647
+2019,Oman,Youth literacy rates,99.3,98.1572533426904,1.1427466573096012
+2019,Oman,Youth literacy rates,99.5,98.1572533426904,1.342746657309604
+2019,Egypt,Pupil-teacher ratio (percent),24.0,22.573821428571428,1.4261785714285722
+2019,Egypt,Pupil-teacher ratio (percent),27.6,25.710282078901077,1.8897179210989243
+2019,Egypt,Pupil-teacher ratio (percent),18.9,18.076622569680666,0.8233774303193329
+2019,Egypt,Pupil-teacher ratio (percent),18.0,21.975081349206334,3.9750813492063344
+2019,Egypt,Pupil-teacher ratio (percent),25.3,25.99149626888802,0.6914962688880202
+2019,Egypt,Pupil-teacher ratio (percent),23.1,19.218024127963705,3.8819758720362962
+2019,Qatar,Net enrolment rate in primary education (percent),93.9,96.11835470489507,2.218354704895063
+2019,United Arab Emirates,Government expenditure on education as a percentage of GDP (percent),3.9,4.0898755930329935,0.18987559303299362
+2019,State of Palestine,Youth literacy rates,99.4,98.67554753712432,0.7244524628756892
+2019,State of Palestine,Youth literacy rates,99.3,98.67554753712432,0.6244524628756807
+2019,Bahrain,Expenditure on education as a percentage of total government expenditure  (percent),9.9,12.202964309439004,2.3029643094390035
+2019,Bahrain,Pupil-teacher ratio (percent),25.2,17.619804761904774,7.580195238095225
+2019,Bahrain,Pupil-teacher ratio (percent),8.8,11.068649065105687,2.268649065105686
+2019,Bahrain,Pupil-teacher ratio (percent),11.5,11.320482178072858,0.17951782192714205
+2019,Bahrain,Pupil-teacher ratio (percent),10.8,9.772674706308225,1.027325293691776
+2019,Bahrain,Pupil-teacher ratio (percent),26.7,25.903480158730144,0.7965198412698555
+2019,United Arab Emirates,Net enrolment rate in primary education (percent),99.8,95.45118050055434,4.3488194994456535
+2019,State of Palestine,Youth literacy rates,99.3,98.67554753712432,0.6244524628756807
+2019,Bahrain,Government expenditure on education as a percentage of GDP (percent),2.4,2.489100445059653,0.08910044505965331
+2019,Kuwait,Adult literacy rates,95.4,93.92753349985159,1.472466500148414
+2019,Kuwait,Adult literacy rates,96.6,95.2858437134995,1.3141562865004914
+2019,Kuwait,Adult literacy rates,97.6,95.20701657045555,2.3929834295444437
+2019,Kuwait,Adult literacy rates,95.1,94.14659402253244,0.9534059774675541
+2019,United Arab Emirates,Expenditure on education as a percentage of total government expenditure  (percent),12.7,12.560801812622488,0.13919818737751122
+2019,Kuwait,Adult literacy rates,97.2,95.51188647783128,1.6881135221687202
+2019,Qatar,Net enrolment rate in primary education (percent),93.7,96.00711864909182,2.3071186490918194
+2019,Egypt,Expenditure on education as a percentage of total government expenditure  (percent),11.6,11.823238945444016,0.22323894544401668
+2019,Qatar,Adult literacy rates,99.1,96.79289306331437,2.307106936685628
+2019,Qatar,Adult literacy rates,99.3,96.51815183074338,2.7818481692566195
+2019,Kuwait,Youth literacy rates,99.0,98.5357459651608,0.46425403483920036
+2019,Kuwait,Youth literacy rates,99.6,98.5357459651608,1.0642540348391947
+2019,Kuwait,Youth literacy rates,99.2,98.5357459651608,0.6642540348392032
+2019,Kuwait,Youth literacy rates,98.2,98.51620778950075,0.31620778950075135
+2019,Kuwait,Youth literacy rates,98.9,98.51620778950075,0.3837922104992515
+2019,Kuwait,Youth literacy rates,98.5,98.51620778950075,0.01620778950075419
+2019,Kuwait,Youth literacy rates,100.0,99.97804584015361,0.02195415984638771
+2019,Kuwait,Youth literacy rates,100.0,99.97804584015361,0.02195415984638771
+2019,Qatar,Net enrolment rate in primary education (percent),93.8,96.10065209500495,2.300652095004949
+2019,Qatar,Net enrolment rate in primary education (percent),94.5,96.90547603002084,2.4054760300208358
+2019,Qatar,Net enrolment rate in primary education (percent),94.2,96.63937589925676,2.43937589925676
+2019,Qatar,Net enrolment rate in primary education (percent),94.4,96.86554842013072,2.465548420130716
+2019,Qatar,Net enrolment rate in primary education (percent),92.3,95.16103763973844,2.8610376397384414
+2019,Qatar,Net enrolment rate in primary education (percent),92.3,95.10340558271419,2.8034055827141913
+2019,Qatar,Net enrolment rate in primary education (percent),92.3,95.18167930640512,2.8816793064051183
+2019,Iraq,Pupil-teacher ratio (percent),14.0,13.101083333333333,0.8989166666666666
+2019,Iraq,Pupil-teacher ratio (percent),20.0,15.233802524463782,4.766197475536218
+2019,Iraq,Pupil-teacher ratio (percent),24.0,19.41645713120578,4.583542868794218
+2019,Iraq,Pupil-teacher ratio (percent),5.0,6.278866198167205,1.2788661981672051
+2019,Iraq,Pupil-teacher ratio (percent),33.0,33.16988690476191,0.16988690476190982
+2019,Iraq,Pupil-teacher ratio (percent),9.0,12.0919790254276,3.0919790254276
+2019,Iraq,Pupil-teacher ratio (percent),13.0,14.572791449626328,1.5727914496263278
+2019,Bahrain,Pupil-teacher ratio (percent),12.6,11.868718322829777,0.7312816771702231
+2019,Bahrain,Pupil-teacher ratio (percent),13.8,14.215735787532786,0.4157357875327854
+2019,Bahrain,Pupil-teacher ratio (percent),13.6,12.861411410280336,0.7385885897196633
+2019,Qatar,Youth literacy rates,99.6,98.3859375091131,1.2140624908868887
+2019,Qatar,Youth literacy rates,99.4,98.3776263684551,1.0223736315449088
+2019,Qatar,Youth literacy rates,99.8,98.3776263684551,1.4223736315449003
+2019,Qatar,Youth literacy rates,99.5,98.3776263684551,1.122373631544903
+2019,Qatar,Youth literacy rates,100.0,99.4653716347416,0.5346283652583992
+2019,Qatar,Youth literacy rates,100.0,99.4596798866626,0.5403201133374012
+2019,Qatar,Youth literacy rates,100.0,99.4653716347416,0.5346283652583992
+2019,Qatar,Youth literacy rates,99.5,98.3859375091131,1.1140624908868944
+2019,Qatar,Youth literacy rates,99.9,98.3859375091131,1.5140624908869
+2019,Kuwait,Government expenditure on education as a percentage of GDP (percent),6.7,5.207451038000702,1.4925489619992982
+2019,Iraq,Net enrolment rate in secondary education (percent),45.0,60.70737184602753,15.707371846027527
+2019,Iraq,Net enrolment rate in secondary education (percent),46.0,54.56728037777355,8.56728037777355
+2019,Iraq,Net enrolment rate in secondary education (percent),46.0,57.36322081788899,11.363220817888987
+2019,Bahrain,Net enrolment rate in secondary education (percent),84.6,87.23461747300746,2.6346174730074665
+2019,Bahrain,Net enrolment rate in secondary education (percent),88.3,88.86069614133528,0.5606961413352849
+2019,Bahrain,Net enrolment rate in secondary education (percent),86.4,87.61268006990667,1.2126800699066678
+2019,Kuwait,Youth literacy rates,100.0,99.97804584015361,0.02195415984638771
+2019,Qatar,Adult literacy rates,99.2,96.78498523364404,2.4150147663559665
+2019,Qatar,Adult literacy rates,99.1,97.3752656114494,1.7247343885506012
+2019,Qatar,Adult literacy rates,99.6,97.1982827044256,2.4017172955744
+2019,Qatar,Adult literacy rates,99.2,97.36239944844574,1.8376005515542602
+2019,Qatar,Adult literacy rates,99.6,96.74274737457418,2.857252625425815
+2019,Qatar,Adult literacy rates,98.2,96.41266885567835,1.787331144321655
+2019,Qatar,Adult literacy rates,98.9,96.70727864746794,2.192721352532061
+2019,State of Palestine,Net enrolment rate in primary education (percent),97.1,95.45118050055434,1.6488194994456506
+2019,State of Palestine,Net enrolment rate in primary education (percent),98.7,95.1869834501236,3.513016549876397
+2019,State of Palestine,Net enrolment rate in primary education (percent),97.9,95.45118050055434,2.448819499445662
+2019,Oman,Adult literacy rates,94.8,95.59377700512081,0.7937770051208162
+2019,Oman,Adult literacy rates,90.6,94.90418374330308,4.304183743303085
+2019,Oman,Adult literacy rates,92.7,95.59377700512081,2.8937770051208105
+2019,Jordan,Government expenditure on education as a percentage of GDP (percent),3.0,3.5249407963848562,0.5249407963848562
+2019,Jordan,Net enrolment rate in secondary education (percent),65.4,68.74319405745983,3.343194057459826
+2019,Jordan,Net enrolment rate in secondary education (percent),77.9,74.27406519479196,3.625934805208047
+2019,Jordan,Net enrolment rate in secondary education (percent),71.4,71.33780074951807,0.06219925048193886
+2019,Mauritania,Government expenditure on education as a percentage of GDP (percent),1.8,2.383767566908391,0.583767566908391
+2019,Somalia,Net enrolment rate in secondary education (percent),13.2,8.052591666666672,5.147408333333328
+2019,Somalia,Net enrolment rate in secondary education (percent),9.6,6.925446230158733,2.6745537698412667
+2019,Kuwait,Net enrolment rate in secondary education (percent),76.9,76.337079162894,0.5629208371060059
+2019,Kuwait,Net enrolment rate in secondary education (percent),80.7,77.72208679868419,2.9779132013158147
+2019,Kuwait,Net enrolment rate in secondary education (percent),87.7,77.02006432778222,10.67993567221778
+2019,Kuwait,Net enrolment rate in secondary education (percent),62.0,64.22079351189423,2.220793511894229
+2019,Kuwait,Net enrolment rate in secondary education (percent),64.5,65.33988405973028,0.8398840597302808
+2019,Kuwait,Net enrolment rate in secondary education (percent),63.2,64.82879229936017,1.6287922993601711
+2019,Kuwait,Net enrolment rate in secondary education (percent),87.0,85.33425934397927,1.6657406560207306
+2019,Kuwait,Net enrolment rate in secondary education (percent),91.2,88.45812319356271,2.74187680643729
+2019,Kuwait,Net enrolment rate in secondary education (percent),89.1,86.73486122309858,2.365138776901418
+2019,Morocco,Government expenditure on education as a percentage of GDP (percent),5.0,4.671994325361545,0.3280056746384554
+2019,United Arab Emirates,Youth literacy rates,95.1,97.71607413263423,2.616074132634239
+2019,United Arab Emirates,Youth literacy rates,97.9,97.71607413263423,0.18392586736577243
+2019,United Arab Emirates,Youth literacy rates,96.3,97.71607413263423,1.416074132634236
+2019,Jordan,Expenditure on education as a percentage of total government expenditure  (percent),11.2,12.62135557518645,1.4213555751864515
+2019,Oman,Net enrolment rate in primary education (percent),97.1,95.45118050055434,1.6488194994456506
+2019,Oman,Net enrolment rate in primary education (percent),96.6,95.15599237869503,1.4440076213049622
+2019,Oman,Net enrolment rate in primary education (percent),96.9,95.45118050055434,1.448819499445662
+2019,Qatar,Pupil-teacher ratio (percent),15.0,13.348318412665215,1.6516815873347852
+2019,Qatar,Pupil-teacher ratio (percent),9.0,7.0685,1.9314999999999998
+2019,Qatar,Pupil-teacher ratio (percent),15.0,11.97291571353411,3.0270842864658896
+2019,Qatar,Pupil-teacher ratio (percent),16.0,15.456175168552873,0.543824831447127
+2019,Somalia,Net enrolment rate in secondary education (percent),11.5,7.4712523809523805,4.0287476190476195
+2019,Jordan,Adult literacy rates,95.5,94.11549206537204,1.3845079346279618
+2019,Jordan,Adult literacy rates,91.3,93.16949041002752,1.8694904100275238
+2019,Oman,Government expenditure on education as a percentage of GDP (percent),5.1,4.465919002033351,0.6340809979666489
+2019,Jordan,Adult literacy rates,93.6,94.00183829516715,0.40183829516715264
+2019,Jordan,Adult literacy rates,92.6,92.22352970270892,0.3764702972910783
+2019,Lebanon,Government expenditure on education as a percentage of GDP (percent),2.5,2.3206300196517238,0.17936998034827623
+2019,Oman,Pupil-teacher ratio (percent),11.0,9.843568258846584,1.1564317411534155
+2019,Oman,Pupil-teacher ratio (percent),11.0,11.812991894648079,0.8129918946480785
+2019,Oman,Pupil-teacher ratio (percent),11.0,12.18108252479875,1.1810825247987502
+2019,Oman,Pupil-teacher ratio (percent),11.0,12.21462389423897,1.2146238942389704
+2019,Algeria,Net enrolment rate in primary education (percent),81.8,92.47955874576843,10.679558745768432
+2019,Algeria,Net enrolment rate in primary education (percent),99.9,94.00535041243508,5.894649587564928
+2019,Oman,Pupil-teacher ratio (percent),11.0,11.164131427341985,0.16413142734198516
+2019,Qatar,Pupil-teacher ratio (percent),12.0,12.396315769662548,0.39631576966254833
+2019,Qatar,Pupil-teacher ratio (percent),10.0,9.753870928165066,0.24612907183493427
+2019,Qatar,Pupil-teacher ratio (percent),19.0,18.082702380952373,0.917297619047627
+2019,Somalia,Adult literacy rates,49.8,46.228062499999986,3.5719375000000113
+2019,Qatar,Pupil-teacher ratio (percent),8.0,9.798518628576968,1.7985186285769679
+2019,Qatar,Pupil-teacher ratio (percent),8.0,8.471985081066677,0.471985081066677
+2019,Qatar,Pupil-teacher ratio (percent),9.0,9.164189204684735,0.1641892046847353
+2019,Oman,Pupil-teacher ratio (percent),11.0,10.306328409982598,0.6936715900174022
+2019,Jordan,Pupil-teacher ratio (percent),13.6,15.047336272598729,1.4473362725987293
+2019,Jordan,Pupil-teacher ratio (percent),15.3,13.642925541103695,1.6570744588963056
+2019,Jordan,Pupil-teacher ratio (percent),16.3,13.44820522155458,2.85179477844542
+2019,Jordan,Pupil-teacher ratio (percent),10.1,11.407079504958737,1.3070795049587378
+2019,Jordan,Pupil-teacher ratio (percent),17.8,17.09693275225161,0.7030672477483897
+2019,Jordan,Pupil-teacher ratio (percent),13.2,13.420755145204707,0.2207551452047074
+2019,Lebanon,Expenditure on education as a percentage of total government expenditure  (percent),8.1,7.728911937625469,0.37108806237453074
+2019,United Arab Emirates,Adult literacy rates,96.2,95.61669343934709,0.5833065606529146
+2019,United Arab Emirates,Adult literacy rates,94.5,94.92710017752935,0.42710017752935414
+2019,United Arab Emirates,Adult literacy rates,95.5,95.61669343934709,0.1166934393470882
+2019,Jordan,Youth literacy rates,98.3,98.01214614050708,0.28785385949291253
+2019,Jordan,Youth literacy rates,97.8,98.01214614050708,0.21214614050708747
+2019,Jordan,Youth literacy rates,98.1,98.01214614050708,0.08785385949290969
+2019,Qatar,Pupil-teacher ratio (percent),15.0,12.97571880572728,2.024281194272721
+2019,Jordan,Pupil-teacher ratio (percent),7.3,9.136382868062691,1.8363828680626915
+2019,Morocco,Net enrolment rate in primary education (percent),99.6,99.32486547619047,0.27513452380952685
+2019,Mauritania,Net enrolment rate in primary education (percent),75.0,78.75184404761895,3.7518440476189454
+2019,Mauritania,Net enrolment rate in primary education (percent),78.8,79.71700416666658,0.9170041666665867
+2019,Mauritania,Net enrolment rate in primary education (percent),76.9,79.12851726190469,2.2285172619046847
+2019,Oman,Adult literacy rates,97.4,95.61669343934709,1.7833065606529175
+2019,Oman,Adult literacy rates,92.7,94.92710017752935,2.2271001775293513
+2019,Oman,Adult literacy rates,95.9,95.61669343934709,0.2833065606529175
+2019,Saudi Arabia,Expenditure on education as a percentage of total government expenditure  (percent),19.1,18.660189271159503,0.43981072884049865
+2019,Jordan,Youth literacy rates,96.5,97.9260731408747,1.4260731408747063
+2019,Jordan,Youth literacy rates,93.7,97.9260731408747,4.226073140874703
+2019,Jordan,Youth literacy rates,95.2,97.9260731408747,2.7260731408747034
+2019,Jordan,Youth literacy rates,98.9,99.16293861347566,0.2629386134756544
+2019,Jordan,Youth literacy rates,99.2,99.15724686539663,0.042753134603373155
+2019,Jordan,Youth literacy rates,99.0,99.16293861347566,0.16293861347566008
+2019,Bahrain,Net enrolment rate in primary education (percent),95.4,95.54189676199695,0.14189676199694645
+2019,Qatar,Expenditure on education as a percentage of total government expenditure  (percent),8.7,11.960246119396539,3.2602461193965393
+2019,State of Palestine,Expenditure on education as a percentage of total government expenditure  (percent),21.3,15.6077541015073,5.6922458984927005
+2019,Kuwait,Net enrolment rate in primary education (percent),82.7,89.43657201069178,6.7365720106917735
+2019,Kuwait,Net enrolment rate in primary education (percent),83.0,89.15318415706471,6.1531841570647146
+2019,Kuwait,Net enrolment rate in primary education (percent),82.8,89.43657201069178,6.636572010691779
+2019,Kuwait,Net enrolment rate in primary education (percent),70.2,70.48990233328144,0.28990233328143233
+2019,Kuwait,Net enrolment rate in primary education (percent),69.3,70.84809350328345,1.5480935032834537
+2019,Kuwait,Net enrolment rate in primary education (percent),69.8,70.47303087645308,0.6730308764530832
+2019,Kuwait,Net enrolment rate in primary education (percent),93.6,93.95213107822957,0.3521310782295757
+2019,Kuwait,Net enrolment rate in primary education (percent),95.0,93.57986361003792,1.4201363899620816
+2019,Kuwait,Net enrolment rate in primary education (percent),94.3,93.94559130550229,0.35440869449770673
+2019,Comoros,Net enrolment rate in primary education (percent),81.8,88.18399294733044,6.383992947330441
+2019,Bahrain,Net enrolment rate in primary education (percent),95.0,95.54189676199695,0.5418967619969521
+2019,Bahrain,Net enrolment rate in primary education (percent),95.9,95.2671276033473,0.6328723966527008
+2019,Qatar,Net enrolment rate in secondary education (percent),89.2,91.13706202987213,1.9370620298721235
+2019,Jordan,Adult literacy rates,87.0,91.74867977674965,4.748679776749654
+2019,Jordan,Adult literacy rates,90.4,92.09300093250404,1.6930009325040345
+2019,Jordan,Adult literacy rates,97.0,94.20167999584068,2.798320004159322
+2019,Jordan,Adult literacy rates,92.7,93.25567834049617,0.555678340496172
+2019,Jordan,Adult literacy rates,94.9,94.08802622563582,0.8119737743641906
+2019,Comoros,Net enrolment rate in primary education (percent),81.8,88.28071794733043,6.480717947330433
+2019,Comoros,Net enrolment rate in primary education (percent),81.8,88.14632806637809,6.346328066378092
+2019,Jordan,Net enrolment rate in primary education (percent),94.1,93.91803770088792,0.1819622991120724
+2019,Jordan,Net enrolment rate in primary education (percent),94.4,93.34518488298083,1.0548151170191744
+2019,Jordan,Net enrolment rate in primary education (percent),94.2,93.80438393068306,0.3956160693169437
+2019,Morocco,Expenditure on education as a percentage of total government expenditure  (percent),15.5,13.862516390883158,1.6374836091168419
+2019,State of Palestine,Adult literacy rates,98.8,95.61669343934709,3.183306560652909
+2019,State of Palestine,Adult literacy rates,95.9,94.95809124895794,0.9419087510420638
+2019,Qatar,Net enrolment rate in secondary education (percent),91.6,90.62216609330044,0.9778339066995585
+2019,Iraq,Youth literacy rates,95.5,94.58701011904763,0.9129898809523667
+2019,Iraq,Youth literacy rates,91.0,91.78431428571429,0.784314285714288
+2019,Iraq,Youth literacy rates,93.6,93.36513492063489,0.23486507936510748
+2019,State of Palestine,Adult literacy rates,97.4,95.61669343934709,1.7833065606529175
+2019,Egypt,Net enrolment rate in primary education (percent),98.4,95.61699702380949,2.7830029761905166
+2019,Egypt,Net enrolment rate in primary education (percent),102.0,96.47679285714287,5.523207142857132
+2019,Egypt,Net enrolment rate in primary education (percent),100.2,96.14330535714278,4.056694642857224
+2019,Oman,Expenditure on education as a percentage of total government expenditure  (percent),9.8,11.633473931513349,1.833473931513348
+2019,Oman,Net enrolment rate in secondary education (percent),77.9,76.72206862298106,1.1779313770189503
+2019,Oman,Net enrolment rate in secondary education (percent),78.4,77.10739089059784,1.2926091094021643
+2019,Oman,Net enrolment rate in secondary education (percent),77.4,76.41487161901709,0.9851283809829141
+2019,Qatar,Government expenditure on education as a percentage of GDP (percent),2.8,3.4728239819574354,0.6728239819574355
+2019,State of Palestine,Net enrolment rate in secondary education (percent),77.4,70.57443536121448,6.825564638785522
+2019,Tunisia,Government expenditure on education as a percentage of GDP (percent),6.2,5.8042641524422836,0.3957358475577166
+2019,State of Palestine,Net enrolment rate in secondary education (percent),86.7,75.9550905012476,10.744909498752406
+2019,State of Palestine,Net enrolment rate in secondary education (percent),68.4,65.95905615519371,2.4409438448062986
+2019,Somalia,Government expenditure on education as a percentage of GDP (percent),0.3,2.3714839953080844,2.0714839953080846
+2020,State of Palestine,Net enrolment rate in secondary education (percent),88.5,75.9550905012476,12.544909498752403
+2020,Bahrain,Youth literacy rates,99.4,97.96455211067892,1.4354478893210825
+2020,Bahrain,Adult literacy rates,97.8,94.83237630480932,2.9676236951906816
+2020,Bahrain,Adult literacy rates,99.5,94.98938071602969,4.510619283970314
+2020,Saudi Arabia,Adult literacy rates,98.6,95.61669343934709,2.983306560652906
+2020,Saudi Arabia,Adult literacy rates,96.0,94.95026267752935,1.0497373224706479
+2020,Saudi Arabia,Adult literacy rates,97.6,95.61669343934709,1.9833065606529061
+2020,Bahrain,Youth literacy rates,99.1,96.02834827756843,3.071651722431568
+2020,Bahrain,Youth literacy rates,97.8,95.85206494423508,1.9479350557649155
+2020,State of Palestine,Net enrolment rate in secondary education (percent),79.3,70.57443536121448,8.725564638785514
+2020,Qatar,Government expenditure on education as a percentage of GDP (percent),3.2,3.4728239819574354,0.2728239819574352
+2020,Oman,Net enrolment rate in secondary education (percent),76.9,76.41487161901709,0.4851283809829141
+2020,Oman,Net enrolment rate in secondary education (percent),78.3,77.10739089059784,1.1926091094021558
+2020,Oman,Net enrolment rate in secondary education (percent),77.6,76.72206862298106,0.877931377018939
+2020,Qatar,Adult literacy rates,99.6,96.74274737457418,2.857252625425815
+2020,Jordan,Net enrolment rate in secondary education (percent),73.8,71.33780074951807,2.4621992504819303
+2020,Kuwait,Government expenditure on education as a percentage of GDP (percent),6.2,5.207451038000702,0.9925489619992982
+2020,Iraq,Net enrolment rate in secondary education (percent),67.0,60.70737184602753,6.292628153972473
+2020,Iraq,Net enrolment rate in secondary education (percent),62.0,54.56728037777355,7.43271962222645
+2020,Iraq,Net enrolment rate in secondary education (percent),64.0,57.36322081788899,6.636779182111013
+2020,Bahrain,Pupil-teacher ratio (percent),26.2,17.619804761904774,8.580195238095225
+2020,Jordan,Youth literacy rates,98.5,98.01214614050708,0.4878538594929154
+2020,Jordan,Youth literacy rates,98.4,98.01214614050708,0.38785385949292106
+2020,Jordan,Youth literacy rates,98.5,98.01214614050708,0.4878538594929154
+2020,Jordan,Youth literacy rates,97.0,97.9260731408747,0.9260731408747063
+2020,Jordan,Youth literacy rates,95.5,97.9260731408747,2.4260731408747063
+2020,Jordan,Youth literacy rates,96.3,97.9260731408747,1.626073140874709
+2020,Qatar,Net enrolment rate in secondary education (percent),90.1,91.15548470801909,1.0554847080190939
+2020,Qatar,Net enrolment rate in secondary education (percent),90.5,90.49296367128619,0.0070363287138093256
+2020,Qatar,Net enrolment rate in secondary education (percent),92.3,90.72440597425286,1.5755940257471366
+2020,Qatar,Net enrolment rate in secondary education (percent),91.4,90.62216609330044,0.7778339066995699
+2020,Somalia,Net enrolment rate in primary education (percent),12.0,16.83181845238095,4.831818452380951
+2020,Morocco,Government expenditure on education as a percentage of GDP (percent),6.3,4.671994325361545,1.6280056746384552
+2020,Lebanon,Government expenditure on education as a percentage of GDP (percent),2.4,2.3206300196517238,0.07936998034827614
+2020,Jordan,Net enrolment rate in secondary education (percent),68.0,68.74319405745983,0.7431940574598315
+2020,Jordan,Net enrolment rate in secondary education (percent),80.4,74.27406519479196,6.125934805208047
+2020,Qatar,Adult literacy rates,99.2,96.79289306331437,2.4071069366856364
+2020,Qatar,Adult literacy rates,99.4,96.51815183074338,2.881848169256628
+2020,Qatar,Adult literacy rates,99.2,96.78498523364404,2.4150147663559665
+2020,Qatar,Adult literacy rates,99.2,97.3752656114494,1.8247343885506098
+2020,Qatar,Adult literacy rates,99.7,97.1982827044256,2.5017172955744087
+2020,Qatar,Adult literacy rates,99.3,97.36239944844574,1.9376005515542545
+2020,State of Palestine,Youth literacy rates,99.2,98.67554753712432,0.5244524628756864
+2020,State of Palestine,Youth literacy rates,99.2,98.67554753712432,0.5244524628756864
+2020,Oman,Youth literacy rates,99.7,98.1572533426904,1.542746657309607
+2020,Oman,Youth literacy rates,99.7,98.1572533426904,1.542746657309607
+2020,Algeria,Government expenditure on education as a percentage of GDP (percent),6.2,5.674340146833011,0.5256598531669896
+2020,Saudi Arabia,Net enrolment rate in primary education (percent),94.6,95.45118050055434,0.8511805005543494
+2020,Saudi Arabia,Net enrolment rate in primary education (percent),95.0,95.17915487869503,0.1791548786950301
+2020,Saudi Arabia,Net enrolment rate in primary education (percent),94.8,95.45118050055434,0.6511805005543465
+2020,Bahrain,Pupil-teacher ratio (percent),23.2,25.903480158730144,2.7034801587301445
+2020,United Arab Emirates,Net enrolment rate in primary education (percent),99.8,95.45118050055434,4.3488194994456535
+2020,Tunisia,Net enrolment rate in primary education (percent),99.2,95.36908006078835,3.830919939211654
+2020,Oman,Youth literacy rates,99.7,98.1572533426904,1.542746657309607
+2020,Oman,Youth literacy rates,99.7,99.17157441645185,0.5284255835481559
+2020,Oman,Youth literacy rates,99.7,99.16588266837283,0.5341173316271721
+2020,Oman,Youth literacy rates,99.7,99.17157441645185,0.5284255835481559
+2020,Kuwait,Youth literacy rates,99.1,98.5357459651608,0.5642540348391947
+2020,Bahrain,Expenditure on education as a percentage of total government expenditure  (percent),8.4,12.202964309439004,3.8029643094390035
+2020,Egypt,Expenditure on education as a percentage of total government expenditure  (percent),12.3,11.823238945444016,0.4767610545559844
+2020,Qatar,Adult literacy rates,98.4,96.41266885567835,1.987331144321658
+2020,Qatar,Adult literacy rates,99.0,96.70727864746794,2.2927213525320553
+2020,Kuwait,Youth literacy rates,99.6,98.5357459651608,1.0642540348391947
+2020,Kuwait,Youth literacy rates,99.3,98.5357459651608,0.7642540348391975
+2020,Qatar,Net enrolment rate in secondary education (percent),90.5,91.0089327238921,0.5089327238921015
+2020,Kuwait,Net enrolment rate in secondary education (percent),66.3,64.82879229936017,1.4712077006398232
+2020,Kuwait,Net enrolment rate in secondary education (percent),91.4,85.33425934397927,6.065740656020736
+2020,Kuwait,Net enrolment rate in secondary education (percent),95.1,88.45812319356271,6.641876806437281
+2020,Saudi Arabia,Youth literacy rates,99.5,98.40320215326052,1.0967978467394772
+2020,Saudi Arabia,Youth literacy rates,99.4,98.40320215326052,0.9967978467394829
+2020,Saudi Arabia,Youth literacy rates,99.5,98.40320215326052,1.0967978467394772
+2020,Qatar,Youth literacy rates,99.8,98.3859375091131,1.4140624908868915
+2020,Qatar,Youth literacy rates,100.0,98.3859375091131,1.6140624908868944
+2020,Qatar,Youth literacy rates,99.8,98.3859375091131,1.4140624908868915
+2020,Qatar,Youth literacy rates,99.7,98.3776263684551,1.322373631544906
+2020,Qatar,Youth literacy rates,99.9,98.3776263684551,1.5223736315449088
+2020,Qatar,Youth literacy rates,99.8,98.3776263684551,1.4223736315449003
+2020,Qatar,Youth literacy rates,100.0,99.4653716347416,0.5346283652583992
+2020,Qatar,Youth literacy rates,100.0,99.4596798866626,0.5403201133374012
+2020,Qatar,Youth literacy rates,100.0,99.4653716347416,0.5346283652583992
+2020,State of Palestine,Youth literacy rates,99.2,98.67554753712432,0.5244524628756864
+2020,Algeria,Net enrolment rate in primary education (percent),81.8,92.47955874576843,10.679558745768432
+2020,Algeria,Net enrolment rate in primary education (percent),99.7,94.00535041243508,5.694649587564925
+2020,Oman,Pupil-teacher ratio (percent),9.0,12.18108252479875,3.18108252479875
+2020,Oman,Pupil-teacher ratio (percent),9.0,12.21462389423897,3.2146238942389704
+2020,Oman,Pupil-teacher ratio (percent),12.0,11.164131427341985,0.8358685726580148
+2020,Oman,Pupil-teacher ratio (percent),12.0,10.306328409982598,1.6936715900174022
+2020,Oman,Pupil-teacher ratio (percent),12.0,9.843568258846584,2.1564317411534155
+2020,Oman,Pupil-teacher ratio (percent),9.0,11.812991894648079,2.8129918946480785
+2020,Jordan,Expenditure on education as a percentage of total government expenditure  (percent),10.3,12.62135557518645,2.32135557518645
+2020,Kuwait,Net enrolment rate in secondary education (percent),80.6,76.337079162894,4.262920837105995
+2020,Kuwait,Net enrolment rate in secondary education (percent),84.4,77.72208679868419,6.677913201315818
+2020,Kuwait,Net enrolment rate in secondary education (percent),82.5,77.02006432778222,5.479935672217778
+2020,Kuwait,Net enrolment rate in secondary education (percent),65.0,64.22079351189423,0.7792064881057712
+2020,Kuwait,Net enrolment rate in secondary education (percent),67.8,65.33988405973028,2.4601159402697164
+2020,Mauritania,Government expenditure on education as a percentage of GDP (percent),1.8,2.383767566908391,0.583767566908391
+2020,Comoros,Net enrolment rate in primary education (percent),81.8,88.28071794733043,6.480717947330433
+2020,Jordan,Adult literacy rates,95.6,94.11549206537204,1.4845079346279562
+2020,Jordan,Adult literacy rates,91.0,93.16949041002752,2.169490410027521
+2020,Somalia,Net enrolment rate in secondary education (percent),23.3,8.052591666666672,15.247408333333329
+2020,Somalia,Net enrolment rate in secondary education (percent),15.2,6.925446230158733,8.274553769841265
+2020,Somalia,Net enrolment rate in secondary education (percent),19.2,7.4712523809523805,11.728747619047619
+2020,Kuwait,Net enrolment rate in secondary education (percent),93.2,86.73486122309858,6.465138776901426
+2020,Somalia,Net enrolment rate in primary education (percent),10.0,15.791160119047628,5.791160119047628
+2020,Somalia,Net enrolment rate in primary education (percent),11.0,16.619071428571434,5.619071428571434
+2020,Comoros,Net enrolment rate in primary education (percent),81.8,88.14632806637809,6.346328066378092
+2020,Comoros,Net enrolment rate in primary education (percent),81.8,88.18399294733044,6.383992947330441
+2020,Bahrain,Net enrolment rate in primary education (percent),81.8,95.54189676199695,13.741896761996955
+2020,Bahrain,Net enrolment rate in primary education (percent),81.8,95.2671276033473,13.467127603347308
+2020,Bahrain,Net enrolment rate in primary education (percent),81.8,95.54189676199695,13.741896761996955
+2020,Lebanon,Expenditure on education as a percentage of total government expenditure  (percent),9.9,7.728911937625469,2.1710880623745314
+2020,Iraq,Net enrolment rate in primary education (percent),88.0,94.34606032760941,6.346060327609408
+2020,Iraq,Net enrolment rate in primary education (percent),88.0,91.82274590281958,3.8227459028195767
+2020,Iraq,Net enrolment rate in primary education (percent),89.0,93.07910465913234,4.079104659132341
+2020,Qatar,Net enrolment rate in primary education (percent),93.4,96.86554842013072,3.465548420130716
+2020,Qatar,Net enrolment rate in primary education (percent),92.1,95.16103763973844,3.0610376397384442
+2020,Qatar,Net enrolment rate in primary education (percent),92.1,95.10340558271419,3.003405582714194
+2020,Qatar,Net enrolment rate in primary education (percent),92.1,95.18167930640512,3.081679306405121
+2020,United Arab Emirates,Expenditure on education as a percentage of total government expenditure  (percent),11.7,12.560801812622488,0.8608018126224888
+2020,Comoros,Government expenditure on education as a percentage of GDP (percent),2.4,2.755173422738194,0.35517342273819397
+2020,Bahrain,Government expenditure on education as a percentage of GDP (percent),2.6,2.489100445059653,0.11089955494034687
+2020,Kuwait,Adult literacy rates,97.1,95.51188647783128,1.5881135221687117
+2020,Kuwait,Adult literacy rates,95.4,93.92753349985159,1.472466500148414
+2020,Kuwait,Adult literacy rates,96.5,95.2858437134995,1.2141562865004971
+2020,Qatar,Net enrolment rate in primary education (percent),92.9,96.11835470489507,3.218354704895063
+2020,Qatar,Net enrolment rate in primary education (percent),93.0,96.00711864909182,3.0071186490918222
+2020,Jordan,Adult literacy rates,93.5,94.00183829516715,0.501838295167147
+2020,Jordan,Adult literacy rates,92.3,92.22352970270892,0.07647029729108112
+2020,Jordan,Adult literacy rates,86.6,91.74867977674965,5.14867977674966
+2020,Jordan,Adult literacy rates,90.1,92.09300093250404,1.9930009325040459
+2020,Jordan,Adult literacy rates,97.3,94.20167999584068,3.0983200041593193
+2020,Jordan,Adult literacy rates,92.5,93.25567834049617,0.7556783404961749
+2020,Jordan,Adult literacy rates,94.9,94.08802622563582,0.8119737743641906
+2020,Oman,Government expenditure on education as a percentage of GDP (percent),6.9,4.465919002033351,2.4340809979666496
+2020,Jordan,Net enrolment rate in primary education (percent),92.9,93.91803770088792,1.0180377008879162
+2020,Jordan,Net enrolment rate in primary education (percent),93.7,93.34518488298083,0.35481511701917157
+2020,Jordan,Net enrolment rate in primary education (percent),93.3,93.80438393068306,0.504383930683062
+2020,Morocco,Expenditure on education as a percentage of total government expenditure  (percent),14.8,13.862516390883158,0.9374836091168426
+2020,State of Palestine,Adult literacy rates,98.8,95.61669343934709,3.183306560652909
+2020,State of Palestine,Adult literacy rates,96.2,94.95809124895794,1.241908751042061
+2020,State of Palestine,Adult literacy rates,97.5,95.61669343934709,1.8833065606529118
+2020,Oman,Expenditure on education as a percentage of total government expenditure  (percent),10.7,11.633473931513349,0.9334739315133493
+2020,Kuwait,Net enrolment rate in primary education (percent),79.1,89.43657201069178,10.336572010691782
+2020,Iraq,Pupil-teacher ratio (percent),8.0,12.0919790254276,4.0919790254276
+2020,Iraq,Pupil-teacher ratio (percent),12.0,14.572791449626328,2.5727914496263278
+2020,State of Palestine,Net enrolment rate in primary education (percent),96.1,95.45118050055434,0.6488194994456506
+2020,State of Palestine,Net enrolment rate in primary education (percent),98.0,95.1869834501236,2.8130165498763944
+2020,State of Palestine,Net enrolment rate in primary education (percent),97.0,95.45118050055434,1.5488194994456563
+2020,Qatar,Net enrolment rate in primary education (percent),93.0,96.10065209500495,3.1006520950049463
+2020,Qatar,Net enrolment rate in primary education (percent),93.2,96.90547603002084,3.705476030020833
+2020,Qatar,Net enrolment rate in primary education (percent),93.5,96.63937589925676,3.1393758992567626
+2020,Kuwait,Net enrolment rate in primary education (percent),80.6,89.15318415706471,8.55318415706472
+2020,Kuwait,Net enrolment rate in primary education (percent),79.8,89.43657201069178,9.63657201069178
+2020,Kuwait,Net enrolment rate in primary education (percent),62.1,70.48990233328144,8.389902333281434
+2020,Kuwait,Net enrolment rate in primary education (percent),63.0,70.84809350328345,7.848093503283451
+2020,Kuwait,Net enrolment rate in primary education (percent),62.5,70.47303087645308,7.97303087645308
+2020,Kuwait,Net enrolment rate in primary education (percent),93.9,93.95213107822957,0.05213107822956431
+2020,Kuwait,Net enrolment rate in primary education (percent),95.3,93.57986361003792,1.7201363899620787
+2020,Kuwait,Net enrolment rate in primary education (percent),94.6,93.94559130550229,0.6544086944977039
+2020,Jordan,Pupil-teacher ratio (percent),20.0,17.09693275225161,2.903067247748389
+2020,Jordan,Pupil-teacher ratio (percent),11.7,13.420755145204707,1.7207551452047074
+2020,Jordan,Pupil-teacher ratio (percent),7.0,9.136382868062691,2.1363828680626913
+2020,Jordan,Pupil-teacher ratio (percent),12.8,15.047336272598729,2.2473362725987283
+2020,Iraq,Pupil-teacher ratio (percent),17.0,13.101083333333333,3.8989166666666666
+2020,Iraq,Pupil-teacher ratio (percent),21.0,15.233802524463782,5.766197475536218
+2020,Oman,Net enrolment rate in primary education (percent),97.0,95.45118050055434,1.5488194994456563
+2020,Oman,Net enrolment rate in primary education (percent),96.4,95.15599237869503,1.2440076213049736
+2020,Oman,Net enrolment rate in primary education (percent),96.7,95.45118050055434,1.2488194994456592
+2020,Jordan,Pupil-teacher ratio (percent),16.7,13.642925541103695,3.057074458896304
+2020,Jordan,Pupil-teacher ratio (percent),18.8,13.44820522155458,5.35179477844542
+2020,Jordan,Pupil-teacher ratio (percent),12.9,11.407079504958737,1.492920495041263
+2020,United Arab Emirates,Government expenditure on education as a percentage of GDP (percent),4.0,4.0898755930329935,0.08987559303299353
+2020,Iraq,Pupil-teacher ratio (percent),23.0,19.41645713120578,3.5835428687942184
+2020,Iraq,Pupil-teacher ratio (percent),11.0,6.278866198167205,4.721133801832795
+2020,Iraq,Pupil-teacher ratio (percent),35.0,33.16988690476191,1.8301130952380902
+2020,Morocco,Net enrolment rate in primary education (percent),99.6,99.32486547619047,0.27513452380952685
+2020,Oman,Adult literacy rates,98.3,95.61669343934709,2.683306560652909
+2020,Oman,Adult literacy rates,94.1,94.92710017752935,0.8271001775293598
+2020,Oman,Adult literacy rates,96.8,95.61669343934709,1.183306560652909
+2020,Oman,Adult literacy rates,96.0,95.59377700512081,0.40622299487918667
+2020,Oman,Adult literacy rates,92.2,94.90418374330308,2.7041837433030764
+2020,Oman,Adult literacy rates,94.1,95.59377700512081,1.493777005120819
+2020,Qatar,Expenditure on education as a percentage of total government expenditure  (percent),9.3,11.960246119396539,2.660246119396538
+2020,Saudi Arabia,Expenditure on education as a percentage of total government expenditure  (percent),19.1,18.660189271159503,0.43981072884049865
+2020,Qatar,Net enrolment rate in secondary education (percent),90.0,91.13706202987213,1.1370620298721263
+2020,Qatar,Net enrolment rate in secondary education (percent),91.1,90.92583865823552,0.1741613417644743
+2020,Qatar,Net enrolment rate in secondary education (percent),90.5,91.00927040426728,0.5092704042672835
+2020,Qatar,Net enrolment rate in secondary education (percent),89.7,91.37567765036275,1.6756776503627435
+2020,Bahrain,Youth literacy rates,98.7,95.97452327756841,2.725476722431594
+2020,Bahrain,Youth literacy rates,99.6,99.16260477496739,0.43739522503260275
+2020,Bahrain,Youth literacy rates,99.8,99.0024547749674,0.797545225032593
+2020,Bahrain,Youth literacy rates,99.7,99.13254644163408,0.5674535583659264
+2020,Jordan,Youth literacy rates,99.2,99.16293861347566,0.037061386524342765
+2020,Bahrain,Youth literacy rates,99.4,98.02011044401226,1.379889555987745
+2020,Bahrain,Youth literacy rates,99.4,97.83717711067894,1.562822889321069
+2020,State of Palestine,Net enrolment rate in secondary education (percent),70.6,65.95905615519371,4.640943844806287
+2020,Jordan,Youth literacy rates,99.1,99.16293861347566,0.06293861347566576
+2020,Jordan,Youth literacy rates,99.3,99.15724686539663,0.14275313460336747
+2020,Somalia,Adult literacy rates,49.8,46.228062499999986,3.5719375000000113
+2020,Iraq,Youth literacy rates,95.6,94.58701011904763,1.012989880952361
+2020,Iraq,Youth literacy rates,92.2,91.78431428571429,0.4156857142857149
+2020,Iraq,Youth literacy rates,93.5,93.36513492063489,0.13486507936511316
+2020,Bahrain,Adult literacy rates,99.1,94.98938071602969,4.110619283970308
+2020,Bahrain,Adult literacy rates,98.4,95.69075876041468,2.7092412395853245
+2020,Bahrain,Adult literacy rates,95.5,94.9757061865164,0.5242938134835953
+2020,Bahrain,Adult literacy rates,96.9,95.69075876041468,1.2092412395853245
+2020,Tunisia,Government expenditure on education as a percentage of GDP (percent),7.3,5.8042641524422836,1.4957358475577163
+2020,Bahrain,Adult literacy rates,99.2,95.71367519464097,3.4863248053590326
+2020,Bahrain,Adult literacy rates,96.4,94.99862262074268,1.401377379257326
+2020,Bahrain,Adult literacy rates,98.2,95.71367519464097,2.4863248053590326
+2021,State of Palestine,Net enrolment rate in secondary education (percent),69.6,65.95905615519371,3.640943844806287
+2021,Jordan,Net enrolment rate in secondary education (percent),72.3,75.35772167659819,3.0577216765981916
+2021,Jordan,Adult literacy rates,92.2,93.16949041002752,0.9694904100275181
+2021,Jordan,Adult literacy rates,96.2,94.11549206537204,2.0845079346279647
+2021,Tunisia,Government expenditure on education as a percentage of GDP (percent),6.7,5.8042641524422836,0.8957358475577166
+2021,Somalia,Adult literacy rates,49.8,46.228062499999986,3.5719375000000113
+2021,Iraq,Pupil-teacher ratio (percent),9.0,12.0919790254276,3.0919790254276
+2021,Iraq,Pupil-teacher ratio (percent),33.0,33.16988690476191,0.16988690476190982
+2021,Saudi Arabia,Expenditure on education as a percentage of total government expenditure  (percent),18.8,18.660189271159503,0.13981072884049794
+2021,Jordan,Pupil-teacher ratio (percent),19.0,17.09693275225161,1.903067247748389
+2021,Jordan,Pupil-teacher ratio (percent),12.4,11.407079504958737,0.9929204950412629
+2021,Jordan,Pupil-teacher ratio (percent),17.8,13.44820522155458,4.35179477844542
+2021,Jordan,Pupil-teacher ratio (percent),16.3,13.642925541103695,2.6570744588963056
+2021,Jordan,Pupil-teacher ratio (percent),13.3,15.047336272598729,1.7473362725987283
+2021,Jordan,Pupil-teacher ratio (percent),5.7,9.136382868062691,3.436382868062691
+2021,Jordan,Pupil-teacher ratio (percent),12.2,13.420755145204707,1.2207551452047074
+2021,Iraq,Pupil-teacher ratio (percent),13.0,14.572791449626328,1.5727914496263278
+2021,Jordan,Net enrolment rate in primary education (percent),97.7,84.44167035899339,13.258329641006611
+2021,Jordan,Net enrolment rate in primary education (percent),94.5,93.80438393068306,0.6956160693169409
+2021,Jordan,Net enrolment rate in primary education (percent),94.8,93.34518488298083,1.4548151170191659
+2021,Jordan,Net enrolment rate in primary education (percent),94.1,93.91803770088792,0.1819622991120724
+2021,Jordan,Adult literacy rates,93.6,92.22352970270892,1.3764702972910783
+2021,Sudan,Expenditure on education as a percentage of total government expenditure  (percent),12.5,12.382160127707289,0.11783987229271098
+2021,Iraq,Pupil-teacher ratio (percent),24.0,19.41645713120578,4.583542868794218
+2021,Iraq,Pupil-teacher ratio (percent),24.0,15.233802524463782,8.766197475536218
+2021,Iraq,Pupil-teacher ratio (percent),15.0,13.101083333333333,1.8989166666666666
+2021,State of Palestine,Net enrolment rate in primary education (percent),96.7,95.45118050055434,1.2488194994456592
+2021,State of Palestine,Net enrolment rate in primary education (percent),97.9,95.1869834501236,2.7130165498764
+2021,State of Palestine,Net enrolment rate in primary education (percent),95.6,95.45118050055434,0.14881949944565065
+2021,Kuwait,Net enrolment rate in primary education (percent),92.8,89.43657201069178,3.363427989308221
+2021,Kuwait,Net enrolment rate in primary education (percent),98.9,89.15318415706471,9.746815842935291
+2021,Kuwait,Net enrolment rate in primary education (percent),86.7,89.43657201069178,2.7365720106917735
+2021,Iraq,Net enrolment rate in primary education (percent),92.2,93.07910465913234,0.8791046591323379
+2021,Iraq,Net enrolment rate in primary education (percent),92.3,91.82274590281958,0.47725409718042044
+2021,Iraq,Net enrolment rate in primary education (percent),92.8,94.34606032760941,1.5460603276094105
+2021,Jordan,Net enrolment rate in primary education (percent),94.2,93.89057186115171,0.3094281388482898
+2021,Jordan,Net enrolment rate in primary education (percent),94.9,93.43137281344947,1.4686271865505347
+2021,Jordan,Net enrolment rate in primary education (percent),93.5,94.00422563135659,0.50422563135659
+2021,Jordan,Net enrolment rate in primary education (percent),96.1,84.28651596529352,11.813484034706477
+2021,Jordan,Net enrolment rate in primary education (percent),94.5,84.21615731446789,10.283842685532107
+2021,Somalia,Net enrolment rate in secondary education (percent),12.8,6.925446230158733,5.874553769841268
+2021,Somalia,Net enrolment rate in secondary education (percent),15.6,8.052591666666672,7.547408333333328
+2021,Comoros,Net enrolment rate in primary education (percent),73.1,88.18399294733044,15.083992947330444
+2021,Comoros,Net enrolment rate in primary education (percent),72.1,88.14632806637809,16.046328066378095
+2021,Qatar,Net enrolment rate in primary education (percent),92.2,95.18167930640512,2.9816793064051126
+2021,Qatar,Net enrolment rate in primary education (percent),92.2,95.10340558271419,2.9034055827141856
+2021,United Arab Emirates,Government expenditure on education as a percentage of GDP (percent),3.9,4.0898755930329935,0.18987559303299362
+2021,Bahrain,Government expenditure on education as a percentage of GDP (percent),2.2,2.489100445059653,0.28910044505965304
+2021,Comoros,Net enrolment rate in primary education (percent),74.2,88.28071794733043,14.080717947330427
+2021,Algeria,Net enrolment rate in primary education (percent),99.8,94.00535041243508,5.794649587564919
+2021,Algeria,Net enrolment rate in primary education (percent),81.8,92.47955874576843,10.679558745768432
+2021,Bahrain,Net enrolment rate in primary education (percent),81.8,95.54189676199695,13.741896761996955
+2021,Bahrain,Net enrolment rate in primary education (percent),81.8,95.2671276033473,13.467127603347308
+2021,Bahrain,Net enrolment rate in primary education (percent),81.8,95.54189676199695,13.741896761996955
+2021,Morocco,Expenditure on education as a percentage of total government expenditure  (percent),16.9,13.862516390883158,3.0374836091168405
+2021,Algeria,Government expenditure on education as a percentage of GDP (percent),5.5,5.674340146833011,0.17434014683301058
+2021,Jordan,Government expenditure on education as a percentage of GDP (percent),3.1,3.5249407963848562,0.42494079638485616
+2021,Jordan,Adult literacy rates,94.3,94.00183829516715,0.2981617048328502
+2021,Somalia,Net enrolment rate in secondary education (percent),14.2,7.4712523809523805,6.728747619047619
+2021,Jordan,Adult literacy rates,95.1,94.08802622563582,1.0119737743641792
+2021,Jordan,Adult literacy rates,92.6,93.25567834049617,0.6556783404961806
+2021,Jordan,Adult literacy rates,97.5,94.20167999584068,3.298320004159322
+2021,Jordan,Adult literacy rates,92.5,92.09300093250404,0.4069990674959598
+2021,Jordan,Adult literacy rates,90.9,91.74867977674965,0.8486797767496483
+2021,Mauritania,Government expenditure on education as a percentage of GDP (percent),1.9,2.383767566908391,0.4837675669083912
+2021,Qatar,Net enrolment rate in secondary education (percent),81.3,91.00927040426728,9.709270404267286
+2021,Qatar,Net enrolment rate in secondary education (percent),81.8,90.92583865823552,9.125838658235523
+2021,Somalia,Net enrolment rate in primary education (percent),17.0,16.83181845238095,0.16818154761904935
+2021,Qatar,Net enrolment rate in primary education (percent),92.1,95.16103763973844,3.0610376397384442
+2021,Qatar,Net enrolment rate in primary education (percent),79.8,96.86554842013072,17.065548420130725
+2021,Qatar,Net enrolment rate in primary education (percent),80.1,96.63937589925676,16.53937589925677
+2021,Qatar,Net enrolment rate in primary education (percent),79.5,96.90547603002084,17.405476030020836
+2021,Qatar,Net enrolment rate in primary education (percent),83.0,96.10065209500495,13.100652095004946
+2021,Qatar,Net enrolment rate in primary education (percent),83.2,96.00711864909182,12.80711864909182
+2021,Qatar,Net enrolment rate in primary education (percent),82.7,96.11835470489507,13.418354704895066
+2021,Comoros,Government expenditure on education as a percentage of GDP (percent),2.3,2.755173422738194,0.45517342273819406
+2021,Qatar,Adult literacy rates,99.4,96.78498523364404,2.6150147663559693
+2021,Qatar,Adult literacy rates,100.0,96.51815183074338,3.4818481692566223
+2021,Qatar,Adult literacy rates,99.1,96.79289306331437,2.307106936685628
+2021,Jordan,Youth literacy rates,98.8,98.01214614050708,0.7878538594929125
+2021,Qatar,Net enrolment rate in secondary education (percent),80.9,91.13706202987213,10.23706202987212
+2021,State of Palestine,Government expenditure on education as a percentage of GDP (percent),5.4,4.553585322819335,0.8464146771806655
+2021,Jordan,Net enrolment rate in secondary education (percent),76.8,78.69351355518748,1.8935135551874822
+2021,Jordan,Net enrolment rate in secondary education (percent),81.7,82.37018696132209,0.6701869613220879
+2021,Jordan,Net enrolment rate in secondary education (percent),77.0,67.37447470759736,9.625525292402642
+2021,Jordan,Net enrolment rate in secondary education (percent),83.1,69.43533541083016,13.664664589169831
+2021,Jordan,Net enrolment rate in secondary education (percent),71.7,65.41614668417122,6.283853315828779
+2021,Jordan,Net enrolment rate in secondary education (percent),77.0,71.33780074951807,5.662199250481933
+2021,Jordan,Net enrolment rate in secondary education (percent),83.1,74.27406519479196,8.825934805208036
+2021,Jordan,Net enrolment rate in secondary education (percent),71.7,68.74319405745983,2.9568059425401714
+2021,Morocco,Government expenditure on education as a percentage of GDP (percent),5.6,4.671994325361545,0.9280056746384551
+2021,Somalia,Net enrolment rate in primary education (percent),16.0,16.619071428571434,0.6190714285714343
+2021,Somalia,Net enrolment rate in primary education (percent),15.0,15.791160119047628,0.7911601190476283
+2021,Jordan,Youth literacy rates,99.2,99.16293861347566,0.037061386524342765
+2021,Jordan,Youth literacy rates,99.2,99.15724686539663,0.042753134603373155
+2021,Jordan,Youth literacy rates,99.1,99.16293861347566,0.06293861347566576
+2021,Jordan,Youth literacy rates,98.0,97.9260731408747,0.07392685912529373
+2021,Jordan,Youth literacy rates,97.8,97.9260731408747,0.1260731408747091
+2021,Jordan,Youth literacy rates,98.1,97.9260731408747,0.17392685912528805
+2021,Iraq,Youth literacy rates,94.3,93.36513492063489,0.9348650793651103
+2021,Iraq,Youth literacy rates,92.2,91.78431428571429,0.4156857142857149
+2021,Iraq,Youth literacy rates,96.2,94.58701011904763,1.6129898809523695
+2021,State of Palestine,Net enrolment rate in secondary education (percent),78.9,70.57443536121448,8.325564638785522
+2021,Bahrain,Pupil-teacher ratio (percent),23.8,25.903480158730144,2.103480158730143
+2021,Bahrain,Pupil-teacher ratio (percent),28.7,17.619804761904774,11.080195238095225
+2021,Iraq,Net enrolment rate in secondary education (percent),71.0,57.36322081788899,13.636779182111013
+2021,Iraq,Net enrolment rate in secondary education (percent),69.0,54.56728037777355,14.43271962222645
+2021,Iraq,Net enrolment rate in secondary education (percent),73.0,60.70737184602753,12.292628153972473
+2021,Kuwait,Government expenditure on education as a percentage of GDP (percent),7.8,5.207451038000702,2.592548961999298
+2021,Jordan,Youth literacy rates,98.9,98.01214614050708,0.8878538594929211
+2021,Jordan,Youth literacy rates,98.9,98.01214614050708,0.8878538594929211
+2021,Bahrain,Expenditure on education as a percentage of total government expenditure  (percent),9.2,12.202964309439004,3.0029643094390046
+2021,State of Palestine,Net enrolment rate in secondary education (percent),88.7,75.9550905012476,12.744909498752406
+2021,Qatar,Net enrolment rate in secondary education (percent),76.2,91.37567765036275,15.175677650362744
+2021,Qatar,Net enrolment rate in secondary education (percent),91.5,90.62216609330044,0.8778339066995642
+2021,Qatar,Net enrolment rate in secondary education (percent),91.7,90.72440597425286,0.9755940257471423
+2021,Qatar,Net enrolment rate in secondary education (percent),91.2,90.49296367128619,0.7070363287138122
+2021,Qatar,Net enrolment rate in secondary education (percent),77.3,91.0089327238921,13.708932723892104
+2021,Qatar,Net enrolment rate in secondary education (percent),76.7,91.15548470801909,14.455484708019085
+2022,Bahrain,Adult literacy rates,97.9,95.71367519464097,2.1863248053590354
+2022,Bahrain,Adult literacy rates,96.1,94.99862262074268,1.1013773792573147
+2022,State of Palestine,Net enrolment rate in secondary education (percent),67.7,65.95905615519371,1.7409438448062957
+2022,State of Palestine,Net enrolment rate in secondary education (percent),87.7,75.9550905012476,11.744909498752406
+2022,Iraq,Youth literacy rates,92.1,91.78431428571429,0.31568571428570635
+2022,State of Palestine,Net enrolment rate in secondary education (percent),77.5,70.57443536121448,6.9255646387855165
+2022,Iraq,Youth literacy rates,94.2,93.36513492063489,0.834865079365116
+2022,Bahrain,Adult literacy rates,98.8,95.71367519464097,3.086324805359027
+2022,Jordan,Adult literacy rates,97.6,94.20167999584068,3.3983200041593165
+2022,Tunisia,Government expenditure on education as a percentage of GDP (percent),6.8,5.8042641524422836,0.9957358475577163
+2022,Jordan,Adult literacy rates,90.2,91.74867977674965,1.5486797767496512
+2022,Jordan,Adult literacy rates,92.0,92.09300093250404,0.09300093250404018
+2022,Jordan,Adult literacy rates,95.1,94.08802622563582,1.0119737743641792
+2022,Jordan,Adult literacy rates,92.7,93.25567834049617,0.555678340496172
+2022,Bahrain,Net enrolment rate in secondary education (percent),91.0,87.23461747300746,3.765382526992539
+2022,Bahrain,Net enrolment rate in secondary education (percent),92.1,88.86069614133528,3.2393038586647123
+2022,Bahrain,Pupil-teacher ratio (percent),14.2,12.861411410280336,1.338588589719663
+2022,Bahrain,Net enrolment rate in secondary education (percent),91.6,87.61268006990667,3.987319930093321
+2022,Bahrain,Pupil-teacher ratio (percent),11.7,11.068649065105687,0.6313509348943125
+2022,Bahrain,Pupil-teacher ratio (percent),12.8,11.320482178072858,1.4795178219271428
+2022,Bahrain,Pupil-teacher ratio (percent),13.2,9.772674706308225,3.4273252936917746
+2022,Bahrain,Pupil-teacher ratio (percent),22.8,25.903480158730144,3.103480158730143
+2022,Bahrain,Pupil-teacher ratio (percent),12.9,11.868718322829777,1.0312816771702238
+2022,Bahrain,Pupil-teacher ratio (percent),14.1,14.215735787532786,0.11573578753278646
+2022,Somalia,Net enrolment rate in primary education (percent),24.0,16.619071428571434,7.380928571428566
+2022,Bahrain,Pupil-teacher ratio (percent),28.8,17.619804761904774,11.180195238095227
+2022,Somalia,Net enrolment rate in primary education (percent),22.0,15.791160119047628,6.208839880952372
+2022,Somalia,Net enrolment rate in primary education (percent),25.0,16.83181845238095,8.16818154761905
+2022,Jordan,Adult literacy rates,92.1,93.16949041002752,1.0694904100275267
+2022,Jordan,Adult literacy rates,96.1,94.11549206537204,1.9845079346279562
+2022,Jordan,Government expenditure on education as a percentage of GDP (percent),3.2,3.5249407963848562,0.32494079638485607
+2022,Morocco,Government expenditure on education as a percentage of GDP (percent),5.9,4.671994325361545,1.2280056746384558
+2022,Comoros,Net enrolment rate in primary education (percent),81.8,88.28071794733043,6.480717947330433
+2022,Comoros,Net enrolment rate in primary education (percent),81.8,88.14632806637809,6.346328066378092
+2022,Qatar,Net enrolment rate in primary education (percent),91.6,95.18167930640512,3.581679306405121
+2022,Kuwait,Government expenditure on education as a percentage of GDP (percent),6.6,5.207451038000702,1.3925489619992977
+2022,Jordan,Adult literacy rates,94.2,94.00183829516715,0.1981617048328559
+2022,Jordan,Adult literacy rates,93.1,92.22352970270892,0.8764702972910783
+2022,Algeria,Government expenditure on education as a percentage of GDP (percent),4.7,5.674340146833011,0.9743401468330104
+2022,Comoros,Government expenditure on education as a percentage of GDP (percent),2.4,2.755173422738194,0.35517342273819397
+2022,Qatar,Net enrolment rate in primary education (percent),87.1,96.63937589925676,9.539375899256768
+2022,Qatar,Net enrolment rate in primary education (percent),86.8,96.11835470489507,9.318354704895071
+2022,Qatar,Net enrolment rate in primary education (percent),88.1,96.00711864909182,7.907118649091828
+2022,Qatar,Net enrolment rate in primary education (percent),87.5,96.10065209500495,8.600652095004946
+2022,Qatar,Net enrolment rate in primary education (percent),85.9,96.86554842013072,10.965548420130716
+2022,Qatar,Net enrolment rate in primary education (percent),84.8,96.90547603002084,12.105476030020839
+2022,Qatar,Net enrolment rate in primary education (percent),90.9,95.10340558271419,4.203405582714183
+2022,Qatar,Net enrolment rate in primary education (percent),92.3,95.16103763973844,2.8610376397384414
+2022,Oman,Expenditure on education as a percentage of total government expenditure  (percent),9.7,11.633473931513349,1.9334739315133493
+2022,Bahrain,Government expenditure on education as a percentage of GDP (percent),2.0,2.489100445059653,0.4891004450596532
+2022,State of Palestine,Net enrolment rate in primary education (percent),97.7,95.45118050055434,2.248819499445659
+2022,State of Palestine,Net enrolment rate in primary education (percent),98.8,95.1869834501236,3.6130165498763915
+2022,State of Palestine,Net enrolment rate in primary education (percent),96.7,95.45118050055434,1.2488194994456592
+2022,Somalia,Youth literacy rates,65.5,28.36494064769977,37.13505935230023
+2022,Jordan,Youth literacy rates,98.7,98.01214614050708,0.6878538594929182
+2022,Qatar,Net enrolment rate in secondary education (percent),86.4,91.13706202987213,4.737062029872121
+2022,Algeria,Net enrolment rate in primary education (percent),81.8,92.47955874576843,10.679558745768432
+2022,Algeria,Net enrolment rate in primary education (percent),99.4,94.00535041243508,5.394649587564928
+2022,Bahrain,Net enrolment rate in primary education (percent),95.4,95.2671276033473,0.13287239665270079
+2022,Bahrain,Net enrolment rate in primary education (percent),94.9,95.54189676199695,0.6418967619969465
+2022,Bahrain,Net enrolment rate in primary education (percent),94.5,95.54189676199695,1.0418967619969521
+2022,Mauritania,Government expenditure on education as a percentage of GDP (percent),2.4,2.383767566908391,0.016232433091608822
+2022,Oman,Government expenditure on education as a percentage of GDP (percent),4.2,4.465919002033351,0.2659190020333506
+2022,Comoros,Net enrolment rate in primary education (percent),81.8,88.18399294733044,6.383992947330441
+2022,Iraq,Youth literacy rates,96.1,94.58701011904763,1.512989880952361
+2022,Bahrain,Youth literacy rates,99.0,97.83717711067894,1.1628228893210633
+2022,Bahrain,Youth literacy rates,99.2,97.96455211067892,1.2354478893210796
+2022,Qatar,Adult literacy rates,99.4,96.78498523364404,2.6150147663559693
+2022,Somalia,Adult literacy rates,45.3,46.74350833333333,1.4435083333333338
+2022,Somalia,Adult literacy rates,53.7,46.228062499999986,7.471937500000017
+2022,Somalia,Adult literacy rates,63.6,46.78900833333333,16.810991666666673
+2022,Bahrain,Youth literacy rates,99.4,98.02011044401226,1.379889555987745
+2022,Qatar,Adult literacy rates,100.0,96.51815183074338,3.4818481692566223
+2022,Qatar,Adult literacy rates,99.0,96.79289306331437,2.2071069366856335
+2022,Jordan,Youth literacy rates,96.5,97.9260731408747,1.4260731408747063
+2022,Somalia,Youth literacy rates,70.3,28.664407909604538,41.63559209039546
+2022,Somalia,Youth literacy rates,76.0,29.018621600080724,46.98137839991928
+2022,Somalia,Net enrolment rate in secondary education (percent),17.0,7.4712523809523805,9.52874761904762
+2022,Somalia,Net enrolment rate in secondary education (percent),15.0,6.925446230158733,8.074553769841266
+2022,Somalia,Net enrolment rate in secondary education (percent),19.0,8.052591666666672,10.947408333333328
+2022,Qatar,Net enrolment rate in secondary education (percent),89.0,91.0089327238921,2.0089327238921015
+2022,Qatar,Net enrolment rate in secondary education (percent),90.1,90.92583865823552,0.8258386582355257
+2022,Qatar,Net enrolment rate in secondary education (percent),88.2,91.00927040426728,2.8092704042672807
+2022,Qatar,Net enrolment rate in secondary education (percent),83.6,91.37567765036275,7.775677650362752
+2022,Qatar,Net enrolment rate in secondary education (percent),92.2,90.49296367128619,1.7070363287138122
+2022,Qatar,Net enrolment rate in secondary education (percent),86.1,91.15548470801909,5.055484708019094
+2022,Qatar,Net enrolment rate in secondary education (percent),92.4,90.72440597425286,1.675594025747145
+2022,Jordan,Youth literacy rates,99.3,99.16293861347566,0.13706138652433708
+2022,Jordan,Youth literacy rates,99.4,99.15724686539663,0.242753134603376
+2022,Jordan,Youth literacy rates,99.2,99.16293861347566,0.037061386524342765
+2022,Jordan,Youth literacy rates,98.4,98.01214614050708,0.38785385949292106
+2022,Jordan,Youth literacy rates,95.7,97.9260731408747,2.2260731408747034
+2022,Jordan,Youth literacy rates,97.3,97.9260731408747,0.6260731408747091
+2022,Jordan,Youth literacy rates,98.5,98.01214614050708,0.4878538594929154
+2022,Qatar,Net enrolment rate in secondary education (percent),92.3,90.62216609330044,1.6778339066995613
+2023,Somalia,Net enrolment rate in primary education (percent),27.1,15.791160119047628,11.308839880952373
+2023,Comoros,Net enrolment rate in primary education (percent),75.5,88.14632806637809,12.64632806637809
+2023,Comoros,Net enrolment rate in primary education (percent),77.8,88.18399294733044,10.38399294733044
+2023,Comoros,Net enrolment rate in primary education (percent),80.0,88.28071794733043,8.28071794733043
+2023,Morocco,Government expenditure on education as a percentage of GDP (percent),6.0,4.671994325361545,1.3280056746384554
+2023,Kuwait,Government expenditure on education as a percentage of GDP (percent),5.0,5.207451038000702,0.20745103800070197
+2023,Comoros,Government expenditure on education as a percentage of GDP (percent),2.3,2.755173422738194,0.45517342273819406
+2023,Algeria,Government expenditure on education as a percentage of GDP (percent),5.6,5.674340146833011,0.07434014683301093
+2023,Somalia,Net enrolment rate in primary education (percent),30.0,16.619071428571434,13.380928571428566
+2023,Tunisia,Government expenditure on education as a percentage of GDP (percent),6.7,5.8042641524422836,0.8957358475577166
+2023,Somalia,Net enrolment rate in primary education (percent),33.0,16.83181845238095,16.16818154761905
+2023,Algeria,Net enrolment rate in primary education (percent),81.8,92.47955874576843,10.679558745768432
+2023,Somalia,Youth literacy rates,76.0,29.018621600080724,46.98137839991928
+2023,Somalia,Youth literacy rates,65.5,28.36494064769977,37.13505935230023
+2023,Somalia,Youth literacy rates,70.3,28.664407909604538,41.63559209039546
+2023,Somalia,Net enrolment rate in secondary education (percent),12.0,8.052591666666672,3.9474083333333283
+2023,Somalia,Net enrolment rate in secondary education (percent),14.0,6.925446230158733,7.074553769841267
+2023,Somalia,Net enrolment rate in secondary education (percent),13.0,7.4712523809523805,5.5287476190476195
+2023,Mauritania,Government expenditure on education as a percentage of GDP (percent),4.8,2.383767566908391,2.4162324330916087
+2023,Algeria,Net enrolment rate in primary education (percent),99.0,94.00535041243508,4.994649587564922
+2023,Saudi Arabia,Government expenditure on education as a percentage of GDP (percent),5.1,4.875152668743034,0.22484733125696543
+2023,Somalia,Adult literacy rates,63.6,46.78900833333333,16.810991666666673
+2023,Somalia,Adult literacy rates,53.7,46.228062499999986,7.471937500000017
+2023,Somalia,Adult literacy rates,45.3,46.74350833333333,1.4435083333333338
