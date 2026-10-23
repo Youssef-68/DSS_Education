@@ -1,13 +1,25 @@
 import streamlit as st
 import pandas as pd
-import requests
+import joblib
 import plotly.express as px
 from pathlib import Path
 
 # Configuration
 st.set_page_config(page_title="Education Decision Support", layout="wide")
 
-API_URL = "http://127.0.0.1:8000/predict"
+MODEL_PATH = (
+    Path(__file__).resolve().parent
+    / "modeling"
+    / "best_model_random_forest.joblib"
+)
+
+
+@st.cache_resource
+def load_model():
+    return joblib.load(MODEL_PATH)
+
+
+model = load_model()
 
 DATA_PATHS = [
     Path("DSS-Education_EN_20261016_113402.csv"),
@@ -132,19 +144,37 @@ def make_payload(indicator, country, year, categories):
 
 
 def predict(payload):
-    response = requests.post(API_URL, json=payload, timeout=30)
-    response.raise_for_status()
-    result = response.json()
+    year = int(payload["Year"])
+    years_since_2000 = year - 2000
 
-    if not result.get("success", False):
-        raise ValueError(result.get("detail", "Prediction failed."))
+    input_data = {
+        "Indicator": payload["Indicator"],
+        "Country": payload["Country"],
+        "Nationality": payload["Nationality"],
+        "Sex": payload["Sex"],
+        "Educational_level": payload["Educational_level"],
+        "Sector": payload["Sector"],
+        "Years_Since_2000": years_since_2000,
+        "Year_Squared": years_since_2000 ** 2,
+    }
 
-    value = result.get("prediction", {}).get("predicted_value")
+    feature_columns = [
+        "Indicator",
+        "Country",
+        "Nationality",
+        "Sex",
+        "Educational_level",
+        "Sector",
+        "Years_Since_2000",
+        "Year_Squared",
+    ]
 
-    if value is None:
-        raise ValueError("No predicted value returned by the API.")
+    input_df = pd.DataFrame(
+        [input_data],
+        columns=feature_columns,
+    )
 
-    return float(value)
+    return float(model.predict(input_df)[0])
 
 
 def aggregate_category(data, column):
@@ -421,14 +451,8 @@ with right:
                     "alternative_category": alternative_value,
                 }
 
-            except requests.exceptions.ConnectionError:
-                st.error("Cannot connect to FastAPI. Start the API server first.")
-
-            except requests.exceptions.Timeout:
-                st.error("The API request timed out. Please try again.")
-
-            except requests.exceptions.HTTPError as error:
-                st.error(f"API error: {error}")
+            except Exception as error:
+                st.error(f"Could not generate estimates: {error}")
 
             except Exception as error:
                 st.error(f"Could not generate estimates: {error}")
